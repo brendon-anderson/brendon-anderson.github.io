@@ -1,0 +1,22 @@
+# jemdoc: menu{menu}{index.html}
+= Brendon G. Anderson
+
+~~~
+{}{img_left}{headshot.jpg}{Brendon G. Anderson}{150}{}
+*Brendon G. Anderson*
+
+Ph.D. Student
+
+University of California, Berkeley
+
+[cv.pdf Curriculum Vitae]
+
+[bganderson@berkeley.edu Email]
+
+Advisor: [https://people.eecs.berkeley.edu/~sojoudi/ Professor Somayeh Sojoudi]
+~~~
+
+== About
+My research interests lie at the intersection of *optimization*, *machine learning*, and *control theory*. In my free time, I enjoy riding and working on vintage motorcycles.
+
+/Fun fact/: I have an Erdos number of 4.

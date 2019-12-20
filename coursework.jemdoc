@@ -1,0 +1,27 @@
+# jemdoc: menu{menu}{coursework.html}
+= Coursework
+Brendon G. Anderson, University of California, Berkeley
+
+Listed below are courses I've taken relevent to my research interests. I've included some of the corresponding course projects [/projects.html \ here].
+
+== Optimization Theory
+- Nonlinear Programming, Professor [https://lavaei.ieor.berkeley.edu/ Javad Lavaei]
+- Convex and Robust Optimization, Professors [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi] and [https://people.eecs.berkeley.edu/~elghaoui/ Laurent El Ghaoui]
+- Optimization Models, Professors [https://people.eecs.berkeley.edu/~elghaoui/ Laurent El Ghaoui] and [https://bayen.berkeley.edu/alex-bayen Alexandre Bayen]
+
+== Machine Learning
+- Statistical Learning Theory (audit), Professors [https://people.eecs.berkeley.edu/~brecht/ Ben Recht] and [https://www.mrtz.org/ Moritz Hardt]
+- Learning and Optimization, Professor [https://aswani.ieor.berkeley.edu/ Anil Aswani]
+- Deep Learning Specialization (online), Professor [https://www.andrewng.org/ Andrew Ng]
+- Machine Learning (online), Professor [https://www.andrewng.org/ Andrew Ng]
+
+== Control Theory
+- Advanced Control Theory, Professor [https://horowitz.me.berkeley.edu/ Roberto Horowitz]
+- Linear Dynamic Systems, Professor [http://www.seas.ucla.edu/mcloskey/biography.html Robert M'Closkey]
+- Digital Control, Professor [http://www.maclab.seas.ucla.edu/professor/ Tsu-Chin Tsao]
+
+== Mathematics and Statistics
+- Theoretical Statistics, Professor [https://www.stat.berkeley.edu/~wfithian/ Will Fithian]
+- Engineering Mathematics (single course: Linear Algebra, Optimization, and Probability), Professors Andrew Packard, [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi], and [https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html Kameshwar Poolla]
+- Analysis (Real; Complex; Numerical)
+- Differential Equations (Ordinary; Partial)
