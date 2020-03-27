@@ -17,11 +17,13 @@ On this page is a variety of unpublished technical works I've written. These inc
 -- CVT mathematical model and tuning program for Baja SAE vehicles.
 - [cvt_resistive_torque.pdf Experimental determination of resistive torque load on CVT secondary pulley]
 -- Model identification of resistive disturbance input to CVT for Baja SAE vehicles.
+- [math_reu_report.pdf Diffusion-based control of robotic swarms]
+-- Analysis and experimentation of a decentralized stochastic control law for spatial coverage control of swarms.
 
 == Notes
 - [how_to_write_mathematics_notes.pdf How to write mathematics]
 -- Notes on ``How to write mathematics'' by Paul R. Halmos.
-- [ubuntu_surface_setup.pdf Linux surface: Setting up ubuntu + i3 on a surface pro]
--- Notes on setting up linux on a surface pro laptop. This is a work in progress.
+- [ubuntu_surface_setup.pdf Linux Surface: Setting up Ubuntu + i3 on a Surface Pro]
+-- Notes on setting up Linux on a Surface Pro laptop. This is a work in progress.
 - [control_theory-a_brief_introduction.pdf Control theory: A brief introduction]
 -- Notes on basic control theory and synthesis I wrote for the Baja SAE CVT subteam members.
