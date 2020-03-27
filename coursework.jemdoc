@@ -12,19 +12,19 @@ Listed below are courses I've taken relevent to my research interests. I've incl
 == Machine Learning
 - Statistical Learning Theory (audit), Professors [https://people.eecs.berkeley.edu/~brecht/ Ben Recht] and [https://www.mrtz.org/ Moritz Hardt]
 - Learning and Optimization, Professor [https://aswani.ieor.berkeley.edu/ Anil Aswani]
-- Deep Learning Specialization (online), Professor [https://www.andrewng.org/ Andrew Ng]
+- Deep Learning (online), Professor [https://www.andrewng.org/ Andrew Ng]
 - Machine Learning (online), Professor [https://www.andrewng.org/ Andrew Ng]
 
 == Control Theory
 - Nonlinear Systems: Analysis, Stability, and Control, Professor [https://people.eecs.berkeley.edu/~tomlin/ Claire Tomlin]
-- Advanced Control Theory I (Linear systems, Lyapunov stability, observer state feedback, linear quadratic regulator), Professor [https://horowitz.me.berkeley.edu/ Roberto Horowitz]
-- Advanced Control Theory II (Linear quadratic control, stochastic estimation and control, adaptive control), Professor [https://msc.berkeley.edu/people/tomizuka.html Masayoshi Tomizuka]
+- Advanced Control Theory I (Linear systems, Lyapunov stability, state observer feedback, linear quadratic regulator), Professor [https://horowitz.me.berkeley.edu/ Roberto Horowitz]
+- Advanced Control Theory II (Linear quadratic control, stochastic estimation and control, tracking and adaptive control), Professor [https://msc.berkeley.edu/people/tomizuka.html Masayoshi Tomizuka]
 - Linear Dynamic Systems, Professor [http://www.seas.ucla.edu/mcloskey/biography.html Robert M'Closkey]
 - Digital Control, Professor [http://www.maclab.seas.ucla.edu/professor/ Tsu-Chin Tsao]
 
 == Mathematics and Statistics
 - Theoretical Statistics (Classical), Professor [https://www.stat.berkeley.edu/~wfithian/ Will Fithian]
 - Theoretical Statistics (High-dimensional), Professor [https://sites.google.com/view/yanshuotan/home Yan Shuo Tan]
-- Engineering Mathematics (single course: Linear Algebra, Optimization, and Probability), Professors Andrew Packard, [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi], and [https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html Kameshwar Poolla]
+- Engineering Mathematics (single course: Linear algebra, optimization, and probability), Professors Andrew Packard, [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi], and [https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html Kameshwar Poolla]
 - Analysis (Real; Complex; Numerical)
 - Differential Equations (Ordinary; Partial)
