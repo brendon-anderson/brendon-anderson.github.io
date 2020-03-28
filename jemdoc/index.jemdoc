@@ -1,0 +1,22 @@
+# jemdoc: menu{menu}{index.html}
+= Brendon G. Anderson
+
+~~~
+{}{img_left}{files/index/headshot.jpg}{Brendon G. Anderson}{150}{}
+*Brendon G. Anderson*
+
+Ph.D. Student
+
+University of California, Berkeley
+
+[files/cv.pdf Curriculum Vitae]
+
+[bganderson@berkeley.edu Email]
+
+Advisor: [https://people.eecs.berkeley.edu/~sojoudi/ Professor Somayeh Sojoudi]
+~~~
+
+== About
+/Research interests/: I'm interested in mathematical problems in the areas of *optimization*, *machine learning*, and *control theory*. My current projects involve proving robustness and optimality guarantees for nonconvex optimization problems in machine learning.
+
+/Fun fact/: I have an Erd\&\#337;s number of 4.

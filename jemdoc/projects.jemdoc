@@ -1,0 +1,29 @@
+# jemdoc: menu{menu}{projects.html},
+= Projects
+Brendon G. Anderson, University of California, Berkeley
+
+On this page is a variety of unpublished technical works I've written. These include course projects, extracurricular reports, and notes written for students I mentored.
+
+== Course Projects
+- [files/projects/convex_optimization_project.pdf Safety verification and robustness analysis of neural networks]
+-- Course project for Convex and Robust Optimization.
+- [files/projects/learning_and_optimization_project.pdf Inverted pendulum stabilization via learning-based MPC]
+-- Course project for Learning and Optimization.
+- [files/projects/nonlinear_programming_project.pdf Video segmentation with global optimality guarantees]
+-- Course project for Nonlinear Programming.
+
+== Technical Reports
+- [files/projects/cvt_tuning.pdf Analysis and tuning of a flyweight-actuated continuously variable transmission]
+-- CVT mathematical model and tuning program for Baja SAE vehicles.
+- [files/projects/cvt_resistive_torque.pdf Experimental determination of resistive torque load on CVT secondary pulley]
+-- Model identification of resistive disturbance input to CVT for Baja SAE vehicles.
+- [files/projects/math_reu_report.pdf Diffusion-based control of robotic swarms]
+-- Analysis and experimentation of a decentralized stochastic control law for spatial coverage control of swarms.
+
+== Notes
+- [files/projects/how_to_write_mathematics_notes.pdf How to write mathematics]
+-- Notes on ``How to write mathematics'' by Paul R. Halmos.
+- [files/projects/ubuntu_surface_setup.pdf Linux Surface: Setting up Ubuntu + i3 on a Surface Pro]
+-- Notes on setting up Linux on a Surface Pro laptop. This is a work in progress.
+- [files/projects/control_theory-a_brief_introduction.pdf Control theory: A brief introduction]
+-- Notes on basic control theory and synthesis I wrote for the Baja SAE CVT subteam members.
