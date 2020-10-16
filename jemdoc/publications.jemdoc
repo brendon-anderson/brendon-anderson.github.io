@@ -3,7 +3,9 @@
 Brendon G. Anderson, University of California, Berkeley
 
 == Conference Papers
-. [https://arxiv.org/pdf/2010.01171.pdf Data-Driven Assessment of Deep Neural Networks with Random Input Uncertainty], 2020, under review
+. [https://arxiv.org/pdf/2010.07532.pdf Certifying neural network robustness to random input noise from samples], 2020, under review
+\n~~~~ *B. G. Anderson* and S. Sojoudi
+. [https://arxiv.org/pdf/2010.01171.pdf Data-driven assessment of deep neural networks with random input uncertainty], 2020, under review
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2004.00570.pdf Tightened convex relaxations for neural network robustness certification], 59th IEEE Conference on Decision and Control, 2020
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
@@ -17,4 +19,4 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *B. G. Anderson*, E. Loeser, M. Gee, F. Ren, S. Biswas, O. Turanova, M. Haberland, and A. L. Bertozzi
 
 == Theses
-. [files/publications/ms_thesis.pdf Towards Optimality and Robustness Guarantees for Data-Driven Learning and Decision Making], M.S. Thesis, University of California, Berkeley, 2020
+. [files/publications/ms_thesis.pdf Towards optimality and robustness guarantees for data-driven learning and decision making], M.S. Thesis, University of California, Berkeley, 2020
