@@ -6,7 +6,7 @@ Listed below are courses I've taken relevent to my research interests. I've incl
 
 == Optimization Theory
 - Nonlinear Programming, Professor [https://lavaei.ieor.berkeley.edu/ Javad Lavaei]
-- Convex and Robust Optimization, Professors [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi] and [https://people.eecs.berkeley.edu/~elghaoui/ Laurent El Ghaoui]
+- Convex Optimization, Professors [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi] and [https://people.eecs.berkeley.edu/~elghaoui/ Laurent El Ghaoui]
 - Optimization Models, Professors [https://people.eecs.berkeley.edu/~elghaoui/ Laurent El Ghaoui] and [https://bayen.berkeley.edu/alex-bayen Alexandre Bayen]
 
 == Machine Learning
@@ -17,17 +17,18 @@ Listed below are courses I've taken relevent to my research interests. I've incl
 
 == Control Theory
 - Nonlinear Systems: Analysis, Stability, and Control, Professor [https://people.eecs.berkeley.edu/~tomlin/ Claire Tomlin]
-- Advanced Control Theory I (Linear systems, Lyapunov stability, state observer feedback, linear quadratic regulator), Professor [https://horowitz.me.berkeley.edu/ Roberto Horowitz]
-- Advanced Control Theory II (Linear quadratic control, stochastic estimation and control, tracking and adaptive control), Professor [https://msc.berkeley.edu/people/tomizuka.html Masayoshi Tomizuka]
-- Linear Dynamic Systems, Professor [http://www.seas.ucla.edu/mcloskey/biography.html Robert M'Closkey]
+- Advanced Control Theory II (LQ control, stochastic estimation and control, tracking and adaptive control), Professor [https://msc.berkeley.edu/people/tomizuka.html Masayoshi Tomizuka]
+- Advanced Control Theory I (linear systems, Lyapunov stability, state observer feedback, LQR), Professor [https://horowitz.me.berkeley.edu/ Roberto Horowitz]
+- Linear Dynamical Systems, Professor [http://www.seas.ucla.edu/mcloskey/biography.html Robert M'Closkey]
 - Digital Control, Professor [http://www.maclab.seas.ucla.edu/professor/ Tsu-Chin Tsao]
 
 == Mathematics
-- Topology and Analysis, Professor [https://math.berkeley.edu/~alanmh/ Alan Hammond]
-- Engineering Mathematics (single course: Linear algebra, optimization, and probability), Professors Andrew Packard, [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi], and [https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html Kameshwar Poolla]
+- Topology and Analysis II (functional analysis), Professor [https://math.berkeley.edu/people/faculty/f-michael-christ Michael Christ]
+- Topology and Analysis I (measure theory), Professor [https://math.berkeley.edu/~alanmh/ Alan Hammond]
+- Engineering Mathematics (single course: linear algebra, optimization, and probability), Professors Andrew Packard, [https://people.eecs.berkeley.edu/~sojoudi/ Somayeh Sojoudi], and [https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html Kameshwar Poolla]
 - Analysis (Real; Complex; Numerical)
 - Differential Equations (Ordinary; Partial)
 
 == Statistics
-- Theoretical Statistics (Classical), Professor [https://www.stat.berkeley.edu/~wfithian/ Will Fithian]
-- Theoretical Statistics (High-dimensional), Professor [https://sites.google.com/view/yanshuotan/home Yan Shuo Tan]
+- Theoretical Statistics II (high-dimensional), Professor [https://sites.google.com/view/yanshuotan/home Yan Shuo Tan]
+- Theoretical Statistics I (classical), Professor [https://www.stat.berkeley.edu/~wfithian/ Will Fithian]
