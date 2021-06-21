@@ -19,6 +19,6 @@ Advisor: [https://people.eecs.berkeley.edu/~sojoudi/ Professor Somayeh Sojoudi]
 ~~~
 
 == About
-/Research interests/: I'm interested in mathematical problems in the areas of *optimization*, *machine learning*, and *control theory*. My current projects involve proving robustness and optimality guarantees for nonconvex optimization problems in machine learning.
+/Research interests/: I'm interested in mathematical problems in the areas of *optimization*, *machine learning*, and *control theory*. My current projects surround provable robustness properties of neural networks using the framework of optimization theory.
 
-/Fun fact/: I have an Erd\&\#337;s number of 4.
+/Fun fact/: I have an Erd\&\#337;s number of $3$ (Paul Erd\&\#337;s $\sim$ Fan Chung $\sim$ Andrea Bertozzi $\sim$ Brendon G. Anderson).

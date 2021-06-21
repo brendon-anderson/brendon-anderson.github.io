@@ -2,11 +2,15 @@
 = Publications
 Brendon G. Anderson, University of California, Berkeley
 
+== Preprints
+. [https://people.eecs.berkeley.edu/~sojoudi/data-driven_certification_2021-long.pdf Data-driven certification of neural networks with random input noise], 2021, under review
+\n~~~~ *B. G. Anderson* and S. Sojoudi
+. [https://arxiv.org/pdf/2101.09306.pdf Partition-based convex relaxations for certifying the robustness of ReLU neural networks], 2021, under review
+\n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
+. [https://arxiv.org/pdf/2106.00089.pdf Node-variant graph filters in graph neural networks], 2021, under review
+\n~~~~ F. Gama, *B. G. Anderson*, and S. Sojoudi
+
 == Conference Papers
-. [https://arxiv.org/pdf/2010.01171.pdf Data-driven assessment of deep neural networks with random input uncertainty], 2020, under review
-\n~~~~ *B. G. Anderson* and S. Sojoudi
-. [https://arxiv.org/pdf/2010.07532.pdf Certifying neural network robustness to random input noise from samples], 2020, under review
-\n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2004.00570.pdf Tightened convex relaxations for neural network robustness certification], 59th IEEE Conference on Decision and Control, 2020
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 . [https://arxiv.org/pdf/1907.04409.pdf Global optimality guarantees for nonconvex unsupervised video segmentation], 57th Annual Allerton Conference on Communication, Control, and Computing, 2019
