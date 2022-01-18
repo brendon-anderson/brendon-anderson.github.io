@@ -3,6 +3,8 @@
 Brendon G. Anderson, University of California, Berkeley
 
 == Preprints
+. [files/publications/anderson2021certified-long.pdf Certified robustness via locally biased randomized smoothing], 2022, under review
+\n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://people.eecs.berkeley.edu/~sojoudi/data-driven_certification_2021-long.pdf Data-driven certification of neural networks with random input noise], 2021, under review
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2101.09306.pdf Partition-based convex relaxations for certifying the robustness of ReLU neural networks], 2021, under review
