@@ -3,13 +3,17 @@
 Brendon G. Anderson, University of California, Berkeley
 
 == Preprints
-. [https://people.eecs.berkeley.edu/~sojoudi/data-driven_certification_2021-long.pdf Data-driven certification of neural networks with random input noise], 2021, under review
+. [https://people.eecs.berkeley.edu/~tgautam23/publications/ImplicitSequential_Preprint.pdf A sequential greedy approach for training implicit deep models], 2022, under review
+\n~~~~ T. Gautam, *B. G. Anderson*, S. Sojoudi, and L. El Ghaoui
+. [files/publications/bai2022avoiding.pdf Avoiding the accuracy-robustness trade-off of classifiers via local adaptive smoothing], 2022, under review
+\n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
+. [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], 2022, under review
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2101.09306.pdf Partition-based convex relaxations for certifying the robustness of ReLU neural networks], 2021, under review
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 
 == Conference Papers
-. [files/publications/anderson2022certified-long.pdf Certified robustness via locally biased randomized smoothing], 4th Learning for Dynamics and Control (L4DC), 2022
+. [files/publications/anderson2022certified-long.pdf Certified robustness via locally biased randomized smoothing], 4th Annual Learning for Dynamics and Control Conference (L4DC), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2106.00089.pdf Node-variant graph filters in graph neural networks], IEEE Data Science and Learning Workshop (DSLW), 2022
 \n~~~~ F. Gama, *B. G. Anderson*, and S. Sojoudi
