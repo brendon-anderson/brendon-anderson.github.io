@@ -5,16 +5,20 @@ Brendon G. Anderson, University of California, Berkeley
 == Preprints
 . [files/publications/pfrommer2022projected.pdf Projected randomized smoothing for certified adversarial robustness], 2022, under review
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
-. [https://people.eecs.berkeley.edu/~tgautam23/publications/ImplicitSequential_Preprint.pdf A sequential greedy approach for training implicit deep models], 2022, under review
-\n~~~~ T. Gautam, *B. G. Anderson*, S. Sojoudi, and L. El Ghaoui
 . [files/publications/bai2022avoiding.pdf Avoiding the accuracy-robustness trade-off of classifiers via local adaptive smoothing], 2022, under review
 \n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
-. [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], 2022, under review
-\n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2101.09306.pdf Partition-based convex relaxations for certifying the robustness of ReLU neural networks], 2021, under review
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 
+== Journal Papers
+. [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], IEEE Transactions on Control of Network Systems (TCNS), 2022
+\n~~~~ *B. G. Anderson* and S. Sojoudi
+
 == Conference Papers
+. [https://people.eecs.berkeley.edu/~tgautam23/publications/ImplicitSequential_Preprint.pdf A sequential greedy approach for training implicit deep models], 61st IEEE Conference on Decision and Control (CDC), 2022
+\n~~~~ T. Gautam, *B. G. Anderson*, S. Sojoudi, and L. El Ghaoui
+. [files/publications/anderson2022towards.pdf Towards optimal randomized smoothing: A semi-infinite linear programming approach], ICML Workshop on Formal Verification of Machine Learning (WFVML), 2022
+\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [files/publications/anderson2022certified-long.pdf Certified robustness via locally biased randomized smoothing], 4th Annual Learning for Dynamics and Control Conference (L4DC), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/2106.00089.pdf Node-variant graph filters in graph neural networks], IEEE Data Science and Learning Workshop (DSLW), 2022
