@@ -2,6 +2,8 @@
 = Publications
 Brendon G. Anderson, University of California, Berkeley
 
+\* denotes equal contribution.
+
 == Preprints
 . [files/publications/pfrommer2022projected.pdf Projected randomized smoothing for certified adversarial robustness], 2022, under review
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
@@ -15,6 +17,8 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
 == Conference Papers
+. [https://people.eecs.berkeley.edu/~sojoudi/ifac_2022.pdf An overview and prospective outlook on robust training and certification of machine learning models], IFAC Symposium on System Structure and Control (SSSC), 2022
+\n~~~~ *B. G. Anderson*\*, T. Gautam\*, and S. Sojoudi
 . [https://people.eecs.berkeley.edu/~tgautam23/publications/ImplicitSequential_Preprint.pdf A sequential greedy approach for training implicit deep models], 61st IEEE Conference on Decision and Control (CDC), 2022
 \n~~~~ T. Gautam, *B. G. Anderson*, S. Sojoudi, and L. El Ghaoui
 . [files/publications/anderson2022towards.pdf Towards optimal randomized smoothing: A semi-infinite linear programming approach], ICML Workshop on Formal Verification of Machine Learning (WFVML), 2022
