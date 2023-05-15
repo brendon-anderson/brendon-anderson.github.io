@@ -16,14 +16,14 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
 . [https://bai-yt.github.io/files/publications/AdaptiveSmoothing_PrePrint.pdf Improving the accuracy-robustness trade-off of classifiers via adaptive smoothing], 2023, under review
 \n~~~~ Y. Bai, *B. G. Anderson*, A. Kim, and S. Sojoudi
-. [https://bai-yt.github.io/files/publications/MixedClassifier_PrePrint.pdf Mixing classifiers to alleviate the accuracy-robustness trade-off], 2023, under review
-\n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
 
 == Journal Papers
 . [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], IEEE Transactions on Control of Network Systems (TCNS), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
 == Conference Papers
+. [https://bai-yt.github.io/files/publications/MixedClassifier_PrePrint.pdf Mixing classifiers to alleviate the accuracy-robustness trade-off], 7th IEEE Conference on Control Technology and Applications (CCTA), 2023
+\n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
 . [https://people.eecs.berkeley.edu/~sojoudi/ifac_2022.pdf An overview and prospective outlook on robust training and certification of machine learning models], IFAC Symposium on System Structure and Control (SSSC), 2022
 \n~~~~ *B. G. Anderson*\*, T. Gautam\*, and S. Sojoudi
 . [https://people.eecs.berkeley.edu/~tgautam23/publications/ImplicitSequential_Preprint.pdf A sequential greedy approach for training implicit deep models], 61st IEEE Conference on Decision and Control (CDC), 2022
