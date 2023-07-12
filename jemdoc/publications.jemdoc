@@ -5,8 +5,6 @@ Brendon G. Anderson, University of California, Berkeley
 \* denotes equal contribution.
 
 == Preprints
-. [files/publications/anderson2023tight.pdf Tight certified robustness via min-max representations of ReLU neural networks], 2023, under review
-\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], 2023, under review
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 . [files/publications/pfrommer2023asymmetric.pdf Asymmetric certified robustness via feature-convex neural networks], 2023, under review
@@ -23,6 +21,8 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
 == Conference Papers
+. [files/publications/anderson2023tight.pdf Tight certified robustness via min-max representations of ReLU neural networks], 2023, 62nd IEEE Conference on Decision and Control (CDC), 2023
+\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [https://bai-yt.github.io/files/publications/MixedClassifier_PrePrint.pdf Mixing classifiers to alleviate the accuracy-robustness trade-off], 7th IEEE Conference on Control Technology and Applications (CCTA), 2023
 \n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
 . [https://people.eecs.berkeley.edu/~sojoudi/ifac_2022.pdf An overview and prospective outlook on robust training and certification of machine learning models], IFAC Symposium on System Structure and Control (SSSC), 2022
