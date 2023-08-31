@@ -2,19 +2,17 @@
 = Miscellaneous
 Brendon G. Anderson, University of California, Berkeley
 
-== Course Projects
-- [files/projects/convex_optimization_project.pdf Safety verification and robustness analysis of neural networks]
--- Course project for Convex and Robust Optimization.
-- [files/projects/learning_and_optimization_project.pdf Inverted pendulum stabilization via learning-based MPC]
--- Course project for Learning and Optimization.
-- [files/projects/nonlinear_programming_project.pdf Video segmentation with global optimality guarantees]
--- Course project for Nonlinear Programming.
-
 == Technical Reports
-- [files/projects/cvt_tuning.pdf Analysis and tuning of a flyweight-actuated continuously variable transmission]
--- Mathematical model and tuning program for mechanical CVTs.
 - [files/projects/math_reu_report.pdf Diffusion-based control of robotic swarms]
 -- Analysis and experimentation of a decentralized stochastic control law for spatial coverage control of swarms.
+- [files/projects/cvt_tuning.pdf Analysis and tuning of a flyweight-actuated continuously variable transmission]
+-- Mathematical model and tuning program for mechanical CVTs.
+- [files/projects/convex_optimization_project.pdf Safety verification and robustness analysis of neural networks]
+-- Course project for Convex and Robust Optimization at UC Berkeley.
+- [files/projects/learning_and_optimization_project.pdf Inverted pendulum stabilization via learning-based MPC]
+-- Course project for Learning and Optimization at UC Berkeley.
+- [files/projects/nonlinear_programming_project.pdf Video segmentation with global optimality guarantees]
+-- Course project for Nonlinear Programming at UC Berkeley.
 
 == Notes
 - [files/projects/how_to_write_mathematics_notes.pdf How to write mathematics]
@@ -22,10 +20,10 @@ Brendon G. Anderson, University of California, Berkeley
 - [files/projects/ubuntu_surface_setup.pdf Linux Surface: Setting up Ubuntu + i3 on a Surface Pro]
 -- Notes on setting up Linux on a Surface Pro laptop.
 - [files/projects/control_theory-a_brief_introduction.pdf Control theory: A brief introduction]
--- Notes on basic control theory and synthesis I wrote for the Baja SAE CVT subteam members.
+-- Notes on basic control theory and synthesis I wrote for the Baja SAE CVT subteam members at UCLA.
 
 == Useful Links
-- [http://www.randomservices.org/random/index.html Random], an exposition on probability theory and mathematical statistics.
-- [http://www.arxiv-sanity.com/ arXiv-sanity], a tool for efficiently navigating arXiv.
+- [https://www.collegeskateboarding.com/ CSEF], college scholarships for skateboarders pursuing higher education.
+- [http://www.arxiv-sanity.com/ arXiv-sanity], a tool for efficiently navigating arXiv research papers.
 - [https://www.offconvex.org/ Off the Convex Path], a blog dedicated to optimization topics in machine learning.
 - [https://github.com/wsshin/jemdoc_mathjax jemdoc+MathJax], the markup language used to create this website.

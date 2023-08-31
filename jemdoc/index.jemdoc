@@ -9,16 +9,18 @@ Ph.D. Candidate
 
 University of California, Berkeley
 
+Email: [bganderson@berkeley.edu bganderson (at) berkeley.edu]
+
+Office: 6112 Etcheverry Hall
+
 [https://scholar.google.com/citations?user=-zepUjMAAAAJ&hl=en&oi=ao Google Scholar]
-
-[https://brendon-anderson.github.io/cv/cv.pdf Curriculum Vitae]
-
-[bganderson@berkeley.edu Email]
-
-Advisor: [https://people.eecs.berkeley.edu/~sojoudi/ Professor Somayeh Sojoudi]
 ~~~
 
 == About
-/Research interests/: I'm interested in mathematical problems in the areas of *optimization*, *machine learning*, and *control theory*. My current projects surround provable robustness properties of neural networks using the framework of optimization theory.
+*I am on the academic job market as of Fall 2023.* Please feel free to reach out if you know of relevant open positions, or if you'd like to get to know me and my research.
+
+/About/: I am a Ph.D. candidate at UC Berkeley, where I work closely with my advisor [https://people.eecs.berkeley.edu/~sojoudi/ Professor Somayeh Sojoudi] on interdisciplinary problems in *optimization*, *machine learning*, *control theory*, and *game theory*. Please see my [https://brendon-anderson.github.io/cv/cv.pdf CV] for more on my background, including awards, professional activities, and outreach.
+
+/Research interests/: I am interested in the development and analysis of safe and reliable computational methods by applying rigorous mathematics to interdisciplinary problems in the areas of optimization, machine learning, control theory, and game theory. My latest projects surround provable safety for neural networks using robust optimization theory, stability guarantees for infinite-dimensional evolutionary games using functional analysis, and robust control of distributed systems using optimal transport theory. I encourage you to look at my [publications.html Publications] for more details.
 
 /Fun fact/: I have an Erd\&\#337;s number of $3$ (Paul Erd\&\#337;s $\sim$ Fan Chung $\sim$ Andrea Bertozzi $\sim$ Brendon G. Anderson).
