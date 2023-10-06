@@ -7,12 +7,6 @@ Brendon G. Anderson, University of California, Berkeley
 -- Analysis and experimentation of a decentralized stochastic control law for spatial coverage control of swarms.
 - [files/projects/cvt_tuning.pdf Analysis and tuning of a flyweight-actuated continuously variable transmission]
 -- Mathematical model and tuning program for mechanical CVTs.
-- [files/projects/convex_optimization_project.pdf Safety verification and robustness analysis of neural networks]
--- Course project for Convex and Robust Optimization at UC Berkeley.
-- [files/projects/learning_and_optimization_project.pdf Inverted pendulum stabilization via learning-based MPC]
--- Course project for Learning and Optimization at UC Berkeley.
-- [files/projects/nonlinear_programming_project.pdf Video segmentation with global optimality guarantees]
--- Course project for Nonlinear Programming at UC Berkeley.
 
 == Notes
 - [files/projects/how_to_write_mathematics_notes.pdf How to write mathematics]
