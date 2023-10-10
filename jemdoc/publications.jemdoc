@@ -14,16 +14,16 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ Y. Bai, *B. G. Anderson*, A. Kim, and S. Sojoudi
 
 == Journal Papers
-. [files/publications/pfrommer2023projected.pdf Projected randomized smoothing for certified adversarial robustness], Transactions on Machine Learning Research (TMLR), 2023
+. [https://arxiv.org/pdf/2309.13794.pdf Projected randomized smoothing for certified adversarial robustness], Transactions on Machine Learning Research (TMLR), 2023
 \n~~~~ *INFORMS Data Mining Best Student Paper Award Runner-Up*
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
 . [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], IEEE Transactions on Control of Network Systems (TCNS), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
 == Conference Papers
-. [files/publications/pfrommer2023asymmetric.pdf Asymmetric certified robustness via feature-convex neural networks], Neural Information Processing Systems (NeurIPS), 2023
+. [https://arxiv.org/pdf/2302.01961.pdf Asymmetric certified robustness via feature-convex neural networks], Neural Information Processing Systems (NeurIPS), 2023
 \n~~~~ S. Pfrommer\*, *B. G. Anderson*\*, J. Piet, and S. Sojoudi
-. [files/publications/anderson2023tight.pdf Tight certified robustness via min-max representations of ReLU neural networks], 62nd IEEE Conference on Decision and Control (CDC), 2023
+. [https://arxiv.org/pdf/2310.04916.pdf Tight certified robustness via min-max representations of ReLU neural networks], 62nd IEEE Conference on Decision and Control (CDC), 2023
 \n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [https://bai-yt.github.io/files/publications/MixedClassifier_PrePrint.pdf Mixing classifiers to alleviate the accuracy-robustness trade-off], 7th IEEE Conference on Control Technology and Applications (CCTA), 2023
 \n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
