@@ -22,6 +22,7 @@ Brendon G. Anderson, University of California, Berkeley
 
 == Conference Papers
 . [https://arxiv.org/pdf/2302.01961.pdf Asymmetric certified robustness via feature-convex neural networks], Neural Information Processing Systems (NeurIPS), 2023
+\n~~~~ *First place in [https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2023-Winners INFORMS OR/MS Tomorrow Mini-Poster Competition]*
 \n~~~~ S. Pfrommer\*, *B. G. Anderson*\*, J. Piet, and S. Sojoudi
 . [https://arxiv.org/pdf/2310.04916.pdf Tight certified robustness via min-max representations of ReLU neural networks], 62nd IEEE Conference on Decision and Control (CDC), 2023
 \n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
