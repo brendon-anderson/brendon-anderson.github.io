@@ -5,7 +5,7 @@ Brendon G. Anderson, University of California, Berkeley
 \* indicates co-first author and equal contribution.
 
 == Preprints
-. [files/publications/anderson2023dissipativity.pdf Evolutionary games on infinite strategy sets: Convergence to Nash through dissipativity], 2023, under review
+. [files/publications/anderson2023dissipativity.pdf Evolutionary games on infinite strategy sets: Convergence to Nash equilibria via dissipativity], 2023, under review
 \n~~~~ *B. G. Anderson*, S. Sojoudi, and M. Arcak
 . [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], 2023, under review
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
@@ -48,7 +48,7 @@ Brendon G. Anderson, University of California, Berkeley
 == Book Chapters
 . [https://arxiv.org/pdf/1905.07655.pdf Quantifying robotic swarm coverage], Lecture Notes in Electrical Engineering (LNEE), volume 613, pp. 276--301, Springer, 2019
 \n~~~~ *B. G. Anderson*, E. Loeser, M. Gee, F. Ren, S. Biswas, O. Turanova, M. Haberland, and A. L. Bertozzi
-
-== Theses
-#. [files/publications/ma_thesis.pdf Dissipativity theory for evolutionary games on infinite strategy sets], M.A. Thesis (Mathematics), University of California, Berkeley, 2023
-. [files/publications/ms_thesis.pdf Towards optimality and robustness guarantees for data-driven learning and decision making], M.S. Thesis, University of California, Berkeley, 2020
+#
+# == Theses
+# . [files/publications/ma_thesis.pdf Dissipativity theory for evolutionary games on infinite strategy sets], M.A. Thesis (Mathematics), University of California, Berkeley, 2023
+# . [files/publications/ms_thesis.pdf Towards optimality and robustness guarantees for data-driven learning and decision making], M.S. Thesis, University of California, Berkeley, 2020
