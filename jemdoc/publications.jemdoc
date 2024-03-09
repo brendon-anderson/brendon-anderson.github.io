@@ -11,11 +11,11 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *B. G. Anderson*, S. Sojoudi, and M. Arcak
 . [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], 2023, under review
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
-. [https://bai-yt.github.io/files/publications/AdaptiveSmoothing_PrePrint.pdf Improving the accuracy-robustness trade-off of classifiers via adaptive smoothing], 2023, under review
-\n~~~~ *Second place method on [https://robustbench.github.io/\#div_cifar100_Linf_heading RobustBench] CIFAR-100 $\ell_\infty$-leaderboard as of May 2023*
-\n~~~~ Y. Bai, *B. G. Anderson*, A. Kim, and S. Sojoudi
 
 == Journal Papers
+. [https://arxiv.org/pdf/2301.12554.pdf Improving the accuracy-robustness trade-off of classifiers via adaptive smoothing], SIAM Journal on Mathematics of Data Science (SIMODS), 2024
+\n~~~~ *Second place method on [https://robustbench.github.io/\#div_cifar100_Linf_heading RobustBench] CIFAR-100 $\ell_\infty$-leaderboard as of May 2023*
+\n~~~~ Y. Bai, *B. G. Anderson*, A. Kim, and S. Sojoudi
 . [https://arxiv.org/pdf/2309.13794.pdf Projected randomized smoothing for certified adversarial robustness], Transactions on Machine Learning Research (TMLR), 2023
 \n~~~~ *INFORMS Data Mining Best Student Paper Award Runner-Up*
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
