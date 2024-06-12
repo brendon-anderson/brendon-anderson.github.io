@@ -17,13 +17,14 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *Second place method on [https://robustbench.github.io/\#div_cifar100_Linf_heading RobustBench] CIFAR-100 $\ell_\infty$-leaderboard as of May 2023*
 \n~~~~ Y. Bai, *B. G. Anderson*, A. Kim, and S. Sojoudi
 . [https://arxiv.org/pdf/2309.13794.pdf Projected randomized smoothing for certified adversarial robustness], Transactions on Machine Learning Research (TMLR), 2023
-\n~~~~ *INFORMS Data Mining Best Student Paper Award Runner-Up*
+\n~~~~ *INFORMS Data Mining Best Student Paper Award runner-up*
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
 . [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], IEEE Transactions on Control of Network Systems (TCNS), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
 == Conference Papers
 . [files/publications/pfrommer2024transport.pdf Transport of algebraic structure to latent embeddings], International Conference on Machine Learning (ICML), 2024
+\n~~~~ *Spotlight paper*
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
 . [https://arxiv.org/pdf/2311.15165.pdf Mixing classifiers to alleviate the accuracy-robustness trade-off], 6th Annual Learning for Dynamics and Control Conference (L4DC), 2024
 \n~~~~ Y. Bai, *B. G. Anderson*, and S. Sojoudi
@@ -37,6 +38,7 @@ Brendon G. Anderson, University of California, Berkeley
 . [https://people.eecs.berkeley.edu/~tgautam23/publications/ImplicitSequential_Preprint.pdf A sequential greedy approach for training implicit deep models], 61st IEEE Conference on Decision and Control (CDC), 2022
 \n~~~~ T. Gautam, *B. G. Anderson*, S. Sojoudi, and L. El Ghaoui
 . [files/publications/anderson2022towards.pdf Towards optimal randomized smoothing: A semi-infinite linear programming approach], ICML Workshop on Formal Verification of Machine Learning (WFVML), 2022
+\n~~~~ *One of six selected for oral presentation*
 \n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [files/publications/anderson2022certified-long.pdf Certified robustness via locally biased randomized smoothing], 4th Annual Learning for Dynamics and Control Conference (L4DC), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
@@ -47,6 +49,7 @@ Brendon G. Anderson, University of California, Berkeley
 . [https://arxiv.org/pdf/1907.04409.pdf Global optimality guarantees for nonconvex unsupervised video segmentation], 57th Annual Allerton Conference on Communication, Control, and Computing, 2019
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 . [https://arxiv.org/pdf/1806.02488.pdf Quantitative assessment of robotic swarm coverage], 15th International Conference on Informatics in Control, Automation and Robotics (ICINCO), 2018
+\n~~~~ *Shortlisted candidate for Best Student Paper Award*
 \n~~~~ *B. G. Anderson*, E. Loeser, M. Gee, F. Ren, S. Biswas, O. Turanova, M. Haberland, and A. L. Bertozzi
 
 == Book Chapters
@@ -54,5 +57,6 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *B. G. Anderson*, E. Loeser, M. Gee, F. Ren, S. Biswas, O. Turanova, M. Haberland, and A. L. Bertozzi
 #
 # == Theses
+# . [files/publications/dissertation.pdf Provably robust machine learning through structure-aware computation], Ph.D. Dissertation, University of California, Berkeley, 2024
 # . [files/publications/ma_thesis.pdf Dissipativity theory for evolutionary games on infinite strategy sets], M.A. Thesis (Mathematics), University of California, Berkeley, 2023
 # . [files/publications/ms_thesis.pdf Towards optimality and robustness guarantees for data-driven learning and decision making], M.S. Thesis, University of California, Berkeley, 2020
