@@ -5,8 +5,6 @@ Brendon G. Anderson, University of California, Berkeley
 \* indicates co-first author and equal contribution.
 
 == Preprints
-. [files/publications/anderson2024approximately.pdf Approximately Gaussian replicator flows: Nonconvex optimization as a Nash-convergent evolutionary game], 2024, under review
-\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [files/publications/anderson2023dissipativity.pdf Evolutionary games on infinite strategy sets: Convergence to Nash equilibria via dissipativity], 2023, under review
 \n~~~~ *B. G. Anderson*, S. Sojoudi, and M. Arcak
 . [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], 2023, under review
@@ -23,6 +21,8 @@ Brendon G. Anderson, University of California, Berkeley
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
 == Conference Papers
+. [https://arxiv.org/pdf/2406.19529 Approximately Gaussian replicator flows: Nonconvex optimization as a Nash-convergent evolutionary game], 63rd IEEE Conference on Decision and Control (CDC), 2024
+\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [https://arxiv.org/pdf/2405.16763 Transport of algebraic structure to latent embeddings], International Conference on Machine Learning (ICML), 2024
 \n~~~~ *Spotlight paper (top 3.5\% of submissions, top 12.8\% of accepted papers)*
 \n~~~~ S. Pfrommer, *B. G. Anderson*, and S. Sojoudi
