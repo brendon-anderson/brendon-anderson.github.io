@@ -1,6 +1,6 @@
-# jemdoc: menu{menu}{miscellaneous.html},
+# jemdoc: menu{menu}{miscellaneous.html}
 = Miscellaneous
-Brendon G. Anderson, University of California, Berkeley
+Brendon G. Anderson, California Polytechnic State University
 
 == Technical Reports
 - [files/projects/math_reu_report.pdf Diffusion-based control of robotic swarms]
