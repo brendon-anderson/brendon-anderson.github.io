@@ -3,22 +3,28 @@
 
 ~~~
 {}{img_left}{files/index/headshot.jpg}{Brendon G. Anderson}{150}{}
-*Brendon G. Anderson, Ph.D.*
+*Brendon G. Anderson*
 
-# University of California, Berkeley
-
+Assistant Professor
+\n
+[https://me.calpoly.edu/ Mechanical Engineering Department]
+\n
+California Polytechnic State University
+\n
 Email: [bga@calpoly.edu bga (at) calpoly.edu]
-
-# Office: 6112 Etcheverry Hall
+\n
+Office: 13-224
 
 [https://scholar.google.com/citations?user=kNA83jQAAAAJ&hl=en&oi=ao Google Scholar]
 ~~~
-
-\n
-*I am thrilled to announce that I will be joining the Mechanical Engineering Department at Cal Poly San Luis Obispo as a tenure-track Assistant Professor in Fall 2024!*
 
 == About
 
 I am interested in the development and analysis of *safe and reliable computational methods* by applying rigorous mathematics to interdisciplinary problems in the areas of *machine learning*, *optimization*, *control theory*, and *game theory*. My latest projects surround provable safety for neural networks using robust optimization theory, stability guarantees for infinite-dimensional evolutionary games using functional analysis, and robust control of distributed systems using optimal transport theory. I encourage you to look at my [/https://brendon-anderson.github.io/publications.html publications] for more details.
 
 *Fun fact:* I have an Erd\&\#337;s number of $3$ (Paul Erd\&\#337;s $\sim$ Fan Chung $\sim$ Andrea L. Bertozzi $\sim$ Brendon G. Anderson).
+
+== News
+
+- September 2024: Our paper ``[https://arxiv.org/pdf/2406.19529 Approximately Gaussian Replicator Flows: Nonconvex Optimization as a Nash-Convergent Evolutionary Game]'' has been accepted for publication at the 2024 IEEE Conference on Decision and Control.
+- September 2024: I have joined the [https://me.calpoly.edu/ Mechanical Engineering Department] at California Polytechnic State University as an Assistant Professor.
