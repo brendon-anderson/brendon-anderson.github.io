@@ -5,10 +5,10 @@ Brendon G. Anderson, California Polytechnic State University
 \* indicates co-first author and equal contribution.
 
 == Preprints
+. [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], 2024, under review
+\n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 . [files/publications/anderson2023dissipativity.pdf Evolutionary games on infinite strategy sets: Convergence to Nash equilibria via dissipativity], 2023, under review
 \n~~~~ *B. G. Anderson*, S. Sojoudi, and M. Arcak
-. [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], 2023, under review
-\n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 
 == Journal Papers
 . [https://arxiv.org/pdf/2301.12554.pdf Improving the accuracy-robustness trade-off of classifiers via adaptive smoothing], SIAM Journal on Mathematics of Data Science (SIMODS), 2024
