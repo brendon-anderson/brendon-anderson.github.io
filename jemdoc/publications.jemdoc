@@ -9,7 +9,7 @@ Brendon G. Anderson, California Polytechnic State University
 \n~~~~ *B. G. Anderson*, J. Li, S. Sojoudi, and M. Arcak
 
 == Journal Papers
-. [https://arxiv.org/pdf/2101.09306.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], Journal of Machine Learning Research (JMLR), 2025
+. [https://jmlr.org/papers/volume26/21-0068/21-0068.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], Journal of Machine Learning Research (JMLR), 2025
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 . [https://arxiv.org/pdf/2301.12554.pdf Improving the accuracy-robustness trade-off of classifiers via adaptive smoothing], SIAM Journal on Mathematics of Data Science (SIMODS), 2024
 \n~~~~ *Second place method on [https://robustbench.github.io/\#div_cifar100_Linf_heading RobustBench] CIFAR-100 $\ell_\infty$-leaderboard as of May 2023*
