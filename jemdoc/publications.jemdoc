@@ -5,10 +5,14 @@ Brendon G. Anderson, California Polytechnic State University
 \* indicates co-first author and equal contribution.
 
 == Preprints
+. [files/publications/bergstrom2025certifiably.pdf Certifiably robust input-dependent randomized smoothing via Lipschitz standard deviation networks], 2025, Submitted
+\n~~~~ F. Bergstrom\*, B. Sager\*, and *B. G. Anderson*
+. [files/publications/rostermundt2025certified.pdf Certified adversarial robustness via mixture-of-Gaussians randomized smoothing], 2025, Submitted
+\n~~~~ V. Rostermundt and *B. G. Anderson*
 . [files/publications/anderson2025robust.pdf Robust optimal transport model predictive control for distribution steering], 2025, Submitted
 \n~~~~ *B. G. Anderson* and O. Frausto
 
-== Journal Papers
+== Journal Articles
 . [https://arxiv.org/pdf/2312.08286 Evolutionary games on infinite strategy sets: Convergence to Nash equilibria via dissipativity], IEEE Transactions on Automatic Control, 2025
 \n~~~~ *B. G. Anderson*, J. Li, S. Sojoudi, and M. Arcak
 . [https://jmlr.org/papers/volume26/21-0068/21-0068.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], Journal of Machine Learning Research (JMLR), 2025
@@ -22,7 +26,7 @@ Brendon G. Anderson, California Polytechnic State University
 . [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], IEEE Transactions on Control of Network Systems (TCNS), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
-== Conference Papers
+== Refereed Conference Papers
 . [https://arxiv.org/pdf/2406.19529 Approximately Gaussian replicator flows: Nonconvex optimization as a Nash-convergent evolutionary game], 63rd IEEE Conference on Decision and Control (CDC), 2024
 \n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [https://arxiv.org/pdf/2405.16763 Transport of algebraic structure to latent embeddings], International Conference on Machine Learning (ICML), 2024
@@ -57,8 +61,8 @@ Brendon G. Anderson, California Polytechnic State University
 == Book Chapters
 . [https://arxiv.org/pdf/1905.07655.pdf Quantifying robotic swarm coverage], Lecture Notes in Electrical Engineering (LNEE), volume 613, pp. 276--301, Springer, 2019
 \n~~~~ *B. G. Anderson*, E. Loeser, M. Gee, F. Ren, S. Biswas, O. Turanova, M. Haberland, and A. L. Bertozzi
-#
-# == Theses
-# . [files/publications/dissertation.pdf Provably robust machine learning through structure-aware computation], Ph.D. Dissertation, University of California, Berkeley, 2024
-# . [files/publications/ma_thesis.pdf Dissipativity theory for evolutionary games on infinite strategy sets], M.A. Thesis (Mathematics), University of California, Berkeley, 2023
-# . [files/publications/ms_thesis.pdf Towards optimality and robustness guarantees for data-driven learning and decision making], M.S. Thesis, University of California, Berkeley, 2020
+
+== Theses
+. [files/publications/dissertation.pdf Provably robust machine learning through structure-aware computation], Ph.D. Dissertation, University of California, Berkeley, 2024
+. [files/publications/ma_thesis.pdf Dissipativity theory for evolutionary games on infinite strategy sets], M.A. Thesis (Mathematics), University of California, Berkeley, 2023
+. [files/publications/ms_thesis.pdf Towards optimality and robustness guarantees for data-driven learning and decision making], M.S. Thesis, University of California, Berkeley, 2020
