@@ -9,8 +9,6 @@ Brendon G. Anderson, California Polytechnic State University
 \n~~~~ *B. G. Anderson*
 . [files/publications/bergstrom2025certifiably.pdf Certifiably robust input-dependent randomized smoothing via Lipschitz standard deviation networks], 2025, Under review
 \n~~~~ F. Bergstrom\*, B. Sager\*, and *B. G. Anderson*
-. [files/publications/rostermundt2025certified.pdf Certified adversarial robustness via mixture-of-Gaussians randomized smoothing], 2025, Under review
-\n~~~~ V. Rostermundt and *B. G. Anderson*
 . [files/publications/anderson2025robust.pdf Robust optimal transport model predictive control for distribution steering], 2025, Under review
 \n~~~~ *B. G. Anderson* and O. Frausto
 
@@ -28,7 +26,7 @@ Brendon G. Anderson, California Polytechnic State University
 . [files/publications/anderson2022data-long.pdf Data-driven certification of neural networks with random input noise], IEEE Transactions on Control of Network Systems (TCNS), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
 
-== Refereed Conference Papers
+== Conference Papers (Peer-Reviewed)
 . [https://arxiv.org/pdf/2406.19529 Approximately Gaussian replicator flows: Nonconvex optimization as a Nash-convergent evolutionary game], 63rd IEEE Conference on Decision and Control (CDC), 2024
 \n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [https://arxiv.org/pdf/2405.16763 Transport of algebraic structure to latent embeddings], International Conference on Machine Learning (ICML), 2024
@@ -45,13 +43,8 @@ Brendon G. Anderson, California Polytechnic State University
 \n~~~~ *B. G. Anderson*\*, T. Gautam\*, and S. Sojoudi
 . [files/publications/gautam2022sequential.pdf A sequential greedy approach for training implicit deep models], 61st IEEE Conference on Decision and Control (CDC), 2022
 \n~~~~ T. Gautam, *B. G. Anderson*, S. Sojoudi, and L. El Ghaoui
-. [files/publications/anderson2022towards.pdf Towards optimal randomized smoothing: A semi-infinite linear programming approach], ICML Workshop on Formal Verification of Machine Learning (WFVML), 2022
-\n~~~~ *One of six selected for oral presentation*
-\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
 . [files/publications/anderson2022certified-long.pdf Certified robustness via locally biased randomized smoothing], 4th Annual Learning for Dynamics and Control Conference (L4DC), 2022
 \n~~~~ *B. G. Anderson* and S. Sojoudi
-. [https://arxiv.org/pdf/2106.00089.pdf Node-variant graph filters in graph neural networks], IEEE Data Science and Learning Workshop (DSLW), 2022
-\n~~~~ F. Gama, *B. G. Anderson*, and S. Sojoudi
 . [https://arxiv.org/pdf/2004.00570.pdf Tightened convex relaxations for neural network robustness certification], 59th IEEE Conference on Decision and Control (CDC), 2020
 \n~~~~ *B. G. Anderson*, Z. Ma, J. Li, and S. Sojoudi
 . [https://arxiv.org/pdf/1907.04409.pdf Global optimality guarantees for nonconvex unsupervised video segmentation], 57th Annual Allerton Conference on Communication, Control, and Computing, 2019
@@ -59,6 +52,15 @@ Brendon G. Anderson, California Polytechnic State University
 . [https://arxiv.org/pdf/1806.02488.pdf Quantitative assessment of robotic swarm coverage], 15th International Conference on Informatics in Control, Automation and Robotics (ICINCO), 2018
 \n~~~~ *Shortlisted candidate for Best Student Paper Award*
 \n~~~~ *B. G. Anderson*, E. Loeser, M. Gee, F. Ren, S. Biswas, O. Turanova, M. Haberland, and A. L. Bertozzi
+
+== Workshop Papers (Peer-Reviewed)
+. [files/publications/rostermundt2025certified.pdf Certified adversarial robustness via mixture-of-Gaussians randomized smoothing], Reliable ML from Unreliable Data Workshop, NeurIPS, 2025
+\n~~~~ V. Rostermundt and *B. G. Anderson*
+. [files/publications/anderson2022towards.pdf Towards optimal randomized smoothing: A semi-infinite linear programming approach], ICML Workshop on Formal Verification of Machine Learning (WFVML), 2022
+\n~~~~ *One of six selected for oral presentation*
+\n~~~~ *B. G. Anderson*, S. Pfrommer, and S. Sojoudi
+. [https://arxiv.org/pdf/2106.00089.pdf Node-variant graph filters in graph neural networks], IEEE Data Science and Learning Workshop (DSLW), 2022
+\n~~~~ F. Gama, *B. G. Anderson*, and S. Sojoudi
 
 == Book Chapters
 . [https://arxiv.org/pdf/1905.07655.pdf Quantifying robotic swarm coverage], Lecture Notes in Electrical Engineering (LNEE), volume 613, pp. 276--301, Springer, 2019
