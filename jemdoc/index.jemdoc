@@ -20,7 +20,8 @@ Office: 13-224
 
 \n
 
-*I am currently looking for graduate students to join my research projects.* Highly motivated students with strengths in mathematics and computer programming are especially encouraged to reach out. Students from outside of Mechanical Engineering are also welcome, as my research is inherently cross-disciplinary. If you are interested in learning more, please email me!
+*I am currently looking for graduate students to join my research projects.* Highly motivated students with strengths in mathematics and computer programming are especially encouraged to reach out.
+# Students from outside of Mechanical Engineering are also welcome, as my research is inherently cross-disciplinary. If you are interested in learning more, please email me!
 
 == About
 
@@ -33,6 +34,10 @@ I am interested in the development and analysis of *safe and reliable computatio
 # Liv joins group (September 2025)
 # Faith joins group (June 2025)
 # Vaughn joins group (April 2025)
+
+- October 7, 2025: I am giving a talk in the Cal Poly Mechanical Engineering Graduate Seminar series (ME 563): "Provably Reliable Computation for Safety-Critical Systems: AI, Optimization, Control, and Beyond."
+
+- October 2025: I served as a reviewer for the [https://ieeecss.org/publication/transactions-automatic-control IEEE Transactions on Automatic Control].
 
 - September 2025: Paper accepted for presentation at the Reliable ML from Unreliable Data Workshop at NeurIPS: "[files/publications/rostermundt2025certified.pdf Certified adversarial robustness via mixture-of-Gaussians randomized smoothing]."
 
