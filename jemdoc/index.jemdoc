@@ -34,6 +34,7 @@ I am interested in the development and analysis of *safe and reliable computatio
 # Liv joins group (September 2025)
 # Faith joins group (June 2025)
 # Vaughn joins group (April 2025)
+# Input-dependent smoothing paper
 
 - October 7, 2025: I am giving a talk in the Cal Poly Mechanical Engineering Graduate Seminar series (ME 563): "Provably Reliable Computation for Safety-Critical Systems: AI, Optimization, Control, and Beyond."
 
@@ -43,8 +44,8 @@ I am interested in the development and analysis of *safe and reliable computatio
 
 - September 2025: New paper: "[files/publications/anderson2025choice.pdf Choice paralysis in evolutionary games]."
 
-- August 2025: New paper: "[files/publications/bergstrom2025certifiably.pdf Certifiably robust input-dependent randomized smoothing via Lipschitz standard deviation networks]."
-
+#- August 2025: New paper: "[files/publications/bergstrom2025certifiably.pdf Certifiably robust input-dependent randomized smoothing via Lipschitz standard deviation networks]."
+#
 - August 2025: New paper: "[files/publications/rostermundt2025certified.pdf Certified adversarial robustness via mixture-of-Gaussians randomized smoothing]."
 
 - August 2025: I served on the program committee for the [https://aaai.org/conference/aaai/aaai-26/ AAAI Conference on Artificial Intelligence].
