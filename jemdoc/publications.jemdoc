@@ -5,14 +5,14 @@ Brendon G. Anderson, California Polytechnic State University
 \* indicates co-first author and equal contribution.
 
 == Preprints
-. [https://arxiv.org/pdf/2509.10567 Choice paralysis in evolutionary games], 2025, Under review
-\n~~~~ *B. G. Anderson*
 #. [files/publications/bergstrom2025certifiably.pdf Certifiably robust input-dependent randomized smoothing via Lipschitz standard deviation networks], 2025
 #\n~~~~ F. Bergstrom\*, B. Sager\*, and *B. G. Anderson*
 . [files/publications/anderson2025robust.pdf Robust optimal transport model predictive control for distribution steering], 2025, Under review
 \n~~~~ *B. G. Anderson* and O. Frausto
 
 == Journal Articles
+. [https://arxiv.org/pdf/2509.10567 Choice paralysis in evolutionary games], IEEE Control Systems Letters (L-CSS), 2025
+\n~~~~ *B. G. Anderson*
 . [https://arxiv.org/pdf/2312.08286 Evolutionary games on infinite strategy sets: Convergence to Nash equilibria via dissipativity], IEEE Transactions on Automatic Control, 2025
 \n~~~~ *B. G. Anderson*, J. Li, S. Sojoudi, and M. Arcak
 . [https://jmlr.org/papers/volume26/21-0068/21-0068.pdf Towards optimal branching of linear and semidefinite relaxations for neural network robustness certification], Journal of Machine Learning Research (JMLR), 2025
